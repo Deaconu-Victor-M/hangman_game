@@ -1,2 +1,2 @@
 # hangman_game
-Homework_hangman_c++
+Homework_hangman c++ && python
